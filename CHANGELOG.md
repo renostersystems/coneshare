@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [1.9.0](https://github.com/coneshare/coneshare/compare/v1.8.0...v1.9.0) (2026-08-19)
+
+
+### Features
+
+* **portal:** add /agents page and update MCP default endpoint to /mcp/sse ([902fee4](https://github.com/coneshare/coneshare/commit/902fee40ff09f2a2cf1ccd407a1f2bd48a0fdca0))
+
+
+### Bug Fixes
+
+* fix mcp release ([7d016e4](https://github.com/coneshare/coneshare/commit/7d016e49b8c0b58f4684fb08dc69ebc73f1491fb))
+
 ## [1.8.0](https://github.com/coneshare/coneshare/compare/v1.7.1...v1.8.0) (2026-08-18)
 
 
